@@ -19,4 +19,6 @@ if row < 10 and colomn < 10:
      print(f"{list1}\n{list2}\n{list3}\n{list4}\n{list5}\n{list6}\n{list7}\n{list8}\n{list9}")
 else:
     print("you're intered wrong number! \n")
+#this like a game and you can play it
+
 
